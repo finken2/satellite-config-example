@@ -1,0 +1,6 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: satcon-gitops-sample-ns
+  labels:
+    name: satcon-gitops-sample-ns
