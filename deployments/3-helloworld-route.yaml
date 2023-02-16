@@ -21,7 +21,7 @@ metadata:
 spec:
   path: "/helloworld"
   port:
-    targetPort: 8080-tcp
+    targetPort: 8080
   tls:
     termination: edge
   to:
